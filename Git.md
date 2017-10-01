@@ -8,4 +8,4 @@
 ##操作流程
 - git checkout -b develop
 - git branch --set-upstream-to=origin/develop test
-- git pull 
+- git pull ;
