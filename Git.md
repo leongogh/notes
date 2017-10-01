@@ -10,4 +10,3 @@
 - git branch --set-upstream-to=origin/develop test
 - git pull
 - git push origin develop 
-- git pull --rebase
